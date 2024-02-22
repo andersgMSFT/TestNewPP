@@ -1,0 +1,80 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Gallery1": 6,
+    "galleryTemplate1": 7,
+    "Host": 3,
+    "Label1": 5,
+    "NextArrow2": 16,
+    "Rectangle2": 18,
+    "Screen1": 4,
+    "Separator2": 17,
+    "Subtitle2": 15,
+    "Title2": 14
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "02/22/2024 09:53:19",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {
+    "b72caca4-3560-48cc-8c1b-0144b4d19fab": "\"/providers/microsoft.powerapps/apis/shared_dynamicssmbsaas/connections/267e115186a3455199ec7484cbbba98e\""
+  },
+  "LocalDatabaseReferencesAsEmpty": true,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 0,
+    "items (v2.0)": 1
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "gallery": 1,
+    "icon": 3,
+    "label": 0,
+    "rectangle": 2
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Gallery1": {},
+    "galleryTemplate1": {},
+    "Host": {},
+    "Label1": {},
+    "NextArrow2": {},
+    "Rectangle2": {},
+    "Screen1": {},
+    "Separator2": {},
+    "Subtitle2": {},
+    "Title2": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Gallery1": 1,
+    "galleryTemplate1": 2,
+    "Host": 0,
+    "Label1": 0,
+    "NextArrow2": 4,
+    "Rectangle2": 3,
+    "Screen1": 0,
+    "Separator2": 7,
+    "Subtitle2": 6,
+    "Title2": 5
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.020566399999999999,
+    "ControlCount": {}
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
