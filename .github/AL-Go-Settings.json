@@ -1,7 +1,7 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/andersgMSFT/AL-Go-PTE@PPP",
-    "powerPlatformSolutionFolder": "TestSolution",
+  "powerPlatformSolutionFolder": "TestSolution",
   "environments": [
     "Dev"
   ],
@@ -10,6 +10,10 @@
     "companyId": "5736fe89-41bc-ee11-907d-6045bdc8c244",
     "ppEnvironmentUrl": "https://org3801b12a.crm.dynamics.com",
     "continuousDeployment": true,
-    "branches": ["main", "PPP"]
-  }
+    "branches": [
+      "main",
+      "PPP"
+    ]
+  },
+  "templateSha": "33129f62cda24302bda786d8a9e7f19a8539f78f"
 }
