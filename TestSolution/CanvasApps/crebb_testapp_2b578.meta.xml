@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>crebb_testapp_2b578</Name>
-  <AppVersion>2024-02-22T09:53:20Z</AppVersion>
+  <AppVersion>2024-02-22T13:04:39Z</AppVersion>
   <Status>Ready</Status>
   <CreatedByClientVersion>3.24021.12.0</CreatedByClientVersion>
   <MinClientVersion>3.24021.12.0</MinClientVersion>
@@ -10,11 +10,11 @@
   <GalleryItemId xsi:nil="true"></GalleryItemId>
   <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
   <DisplayName>TestApp</DisplayName>
-  <Description xsi:nil="true"></Description>
-  <CommitMessage xsi:nil="true"></CommitMessage>
-  <Publisher xsi:nil="true"></Publisher>
+  <Description></Description>
+  <CommitMessage></CommitMessage>
+  <Publisher></Publisher>
   <AuthorizationReferences>[]</AuthorizationReferences>
-  <ConnectionReferences>{"b72caca4-3560-48cc-8c1b-0144b4d19fab":{"id":"/providers/microsoft.powerapps/apis/shared_dynamicssmbsaas","displayName":"Dynamics 365 Business Central","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1677/1.0.1677.3631/dynamicssmbsaas/icon.png","dataSources":["items (v2.0)"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"dataSets":{"SANDBOX,5736fe89-41bc-ee11-907d-6045bdc8c244":{"dataSources":{"items (v2.0)":{"tableName":"items,v2.0"}}}},"apiTier":"Premium","actions":["providers/PowerPlatform.Governance/Operations/Read"]}}</ConnectionReferences>
+  <ConnectionReferences>{"b72caca4-3560-48cc-8c1b-0144b4d19fab":{"id":"/providers/microsoft.powerapps/apis/shared_dynamicssmbsaas","displayName":"Dynamics 365 Business Central","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1677/1.0.1677.3631/dynamicssmbsaas/icon.png","dataSources":["items (v2.0)"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{"SANDBOX,5736fe89-41bc-ee11-907d-6045bdc8c244":{"dataSources":{"items (v2.0)":{"tableName":"items,v2.0"}}}},"apiTier":"Premium","actions":["providers/PowerPlatform.Governance/Operations/Read"]}}</ConnectionReferences>
   <DatabaseReferences>{}</DatabaseReferences>
   <AppComponents>[]</AppComponents>
   <AppComponentDependencies>[]</AppComponentDependencies>
